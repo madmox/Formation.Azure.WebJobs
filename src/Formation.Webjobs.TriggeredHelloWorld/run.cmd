@@ -1,0 +1,1 @@
+dotnet Formation.Webjobs.TriggeredHelloWorld.dll
